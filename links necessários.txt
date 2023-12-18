@@ -1,0 +1,12 @@
+https://www.typescriptlang.org/
+
+https://angular.io/guide/setup-local
+
+https://rxjs.dev/
+
+https://www.primefaces.org/
+
+https://swagger.io/
+
+https://nodejs.org/en
+
